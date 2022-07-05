@@ -1,7 +1,7 @@
 ---
 title: 'Crack-free metal printing using physics based machine learning: A summary'
 date: 2022-07-05
-permalink: /posts/2022/07/mondal-et-al-summary/
+permalink: /year-archive/2022/07/mondal-et-al-summary/
 tags:
   - paper summary
   - 3dprinting
