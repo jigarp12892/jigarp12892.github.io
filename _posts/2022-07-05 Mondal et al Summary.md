@@ -1,7 +1,7 @@
 ---
 title: 'Crack-free metal printing using physics based machine learning: A summary'
 date: 2022-07-05
-permalink: /posts/2012/08/blog-post-1/
+permalink: /posts/2022/07/mondal-et-al-summary/
 tags:
   - paper summary
   - 3dprinting
@@ -17,11 +17,13 @@ This paper attempts to demonstrate the effectiveness of physics informed machine
 In this process, a laser beam selectively melts regions of a bed of metal powder, and if the melting and subsequent cooling happens as desired, then it results in a fused metal component.
 
 For those unfamiliar with L-PBF, here's is a 1 minute introduction:
-[What Is Laser Powder Bed Fusion?](https://www.youtube.com/watch?v=r8_M995cwAA&t=34s)
+>[What Is Laser Powder Bed Fusion?](https://www.youtube.com/watch?v=r8_M995cwAA&t=34s)
+
 As you can imagine, the point where the laser beam meets the powder bed is the critical region. That's where the melt-pool is created, which is highly transient and it's effective formation, movement and subsequent cooling defines the success of the final part.
 
 Here is a nice visual simulation of the powder bed and melt-pool formation.
-[Simulation of melt-pool in L-PBF](https://www.youtube.com/watch?v=IogJ0xujy_4)
+
+>[Simulation of melt-pool in L-PBF](https://www.youtube.com/watch?v=IogJ0xujy_4)
 
 Idea and approach.
 ====
@@ -52,9 +54,9 @@ Concluding remarks
 * The reduction of feature space reduces our reliance on black box machine learning approaches that are heavily reliant of large datasets and computation power.
 * Solidification stress was found as the most influential factor in determining whether a part will be cracked or not.
 
-====
-References
 
+References
+====
 <cite>B. Mondal, T. Mukherjee, T. DebRoy,
 Crack free metal printing using physics informed machine learning,
 Acta Materialia,
@@ -65,5 +67,5 @@ ISSN 1359-6454,
 https://doi.org/10.1016/j.actamat.2021.117612.</cite>
 
 If this triggers the need to read the paper in full detail:
-*  [Link to the paper] (https://www.sciencedirect.com/science/article/pii/S1359645421009903?via%3Dihub)
-*  [Link to the video explanation by the authors] (https://www.youtube.com/watch?v=PnXFdqx8AAo)
+* [Link to the paper](https://www.sciencedirect.com/science/article/pii/S1359645421009903?via%3Dihub)
+* [Link to the video explanation by the authors](https://www.youtube.com/watch?v=PnXFdqx8AAo)
