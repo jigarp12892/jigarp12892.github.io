@@ -17,10 +17,15 @@ Education
 
 Work experience
 ======
-* 2017-2020: Additive Manufacturing researcher
+* 2021-Present: Additive Manufacturing researcher
   * Multi Scale Additive Manufacturing Lab
   * Duties included: Using data science to improve quality of metal 3D printed parts. Building a data-centric approach towards effective ML on 3D printing data
-  * Supervisors: Mike Rose, Brent Pepple, Craig Rammel
+  * Supervisors: Mihaela Vlasea
+
+* 2022-Present: Teaching Assistant
+  * University of Waterloo
+  * Duties included: Assisting in graduate level courses on additive manufacturing and fluid power systems
+  * Supervisors: Mihaela Vlasea, Sagar Patel
 
 * 2017-2020: Manufacturing and Testing Engineer
   * Midmark Corporation
@@ -56,4 +61,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Student Success Office, new graduate student transition, University of Waterloo
