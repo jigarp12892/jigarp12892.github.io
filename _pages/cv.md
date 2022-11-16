@@ -15,6 +15,12 @@ Education
 * M.S. in Industrial Engineeering, Texas A&M University
 * Ph.D in Mechatronics Engineering, University of Waterloo
 
+Awards
+======
+* NSERC CGS-D (2022): A 3 year federal award valued at CAD 105,000
+* OGS/QEII-ST (2022) : A provincial award valued at $20,000 per year for 3 years (awarded but declined)
+* America Makes AMNOW Challenge winner (2022) : A Department of Energy initiative involving commerical 3D printing data analysis and predictions. 
+
 Work experience
 ======
 * 2021-Present: Additive Manufacturing researcher
