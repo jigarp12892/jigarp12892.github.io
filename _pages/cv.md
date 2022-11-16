@@ -22,6 +22,8 @@ Work experience
   * Duties included: Using data science to improve quality of metal 3D printed parts. 
       * Understanding data sources
       * Building a data-centric approach towards effective ML on 3D printing data
+      * Build an understanding of the data generated from printing metals (Thermal sensors, microscopy, complex CAD data, machine settings, etc.)
+      * Building a hybrid database model to store a variety of data generated from metal 3D printing systems
   * Supervisors: Mihaela Vlasea
 
 * 2022-Present: Teaching Assistant
