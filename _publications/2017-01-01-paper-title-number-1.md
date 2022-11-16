@@ -2,7 +2,7 @@
 title: "Quality Enhancement with Ultrasonic Wave and Pulsed Current in Electrochemical Machining"
 collection: publications
 permalink: /publication/2017-01-01-paper-title-number-1
-excerpt: 'This paper explores a novel experimental set-up that combines pulsed velectrochemical machining with ultrasonic vibrations directly applied to electrolyte'
+excerpt: 'This paper explores a novel experimental set-up that combines pulsed electrochemical machining with ultrasonic vibrations directly applied to electrolyte'
 date: 2017-01-01
 venue: 'Procedia Manufacturing'
 paperurl: 'http://jigarp12892.github.io/files/paper1.pdf'
