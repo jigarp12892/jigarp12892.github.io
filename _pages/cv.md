@@ -19,7 +19,9 @@ Work experience
 ======
 * 2021-Present: Additive Manufacturing researcher
   * Multi Scale Additive Manufacturing Lab
-  * Duties included: Using data science to improve quality of metal 3D printed parts. Building a data-centric approach towards effective ML on 3D printing data
+  * Duties included: Using data science to improve quality of metal 3D printed parts. 
+      * Understanding data sources
+      * Building a data-centric approach towards effective ML on 3D printing data
   * Supervisors: Mihaela Vlasea
 
 * 2022-Present: Teaching Assistant
@@ -35,7 +37,7 @@ Work experience
 * Summer 2015: Operations Co-op
   * Midmark Corporation
   * Duties included:line optimization
-  * Supervisor:Charles Bretz
+  * Supervisor: Charles Bretz
 
 
   
