@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href='http://jigarp12892.github.io/files/2025_May_CV_Jigar.pdf'>Download Full CV here here</a>
+
 Education
 ======
 * B.S. in Production Engineering, Gujarat Technological Engineering
@@ -49,7 +51,7 @@ Work experience
 
   
 
-
+<!-- 
 Publications
 ======
   <ul>{% for post in site.publications %}
@@ -70,4 +72,4 @@ Teaching
   
 Service and leadership
 ======
-* Student Success Office, new graduate student transition, University of Waterloo
+* Student Success Office, new graduate student transition, University of Waterloo -->
